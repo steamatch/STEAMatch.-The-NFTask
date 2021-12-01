@@ -23,7 +23,7 @@ A continuación:
 
 ## Misión
 
-Vas a recibir una historia que propone un problema complejo para el cual debes diseñar una solución. 
+Vas a recibir una **[historia](https://github.com/steamatch/STEAMatch-A-NFTask/blob/main/audio%20steamatch%20esp.mp3/)** que propone un problema complejo para el cual debes diseñar una solución. 
 
 Encuentra en tus habilidades STEAM la mejor propuesta posible. 
 
