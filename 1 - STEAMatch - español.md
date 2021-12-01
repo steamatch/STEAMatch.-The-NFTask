@@ -53,7 +53,7 @@ Recuerda que tu NFT se encuentra en 2 escenarios simultáneamente:
 ## Formato del NFT
 
 Pista de audio de máximo 1 minuto.
-Formatos: .mp3, .mp4, .wav.
+Formatos: MP3, OGG, WAV.
 
 Individual o colectivamente, diseña y produce tu propuesta narrativa. Puedes ser director(a), guionista, una de las voces de tu propia producción, o pueden colectivamente distribuir las tareas.  
 
