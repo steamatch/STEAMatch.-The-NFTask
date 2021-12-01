@@ -31,7 +31,7 @@ Find the best possible proposal in your STEAM skills.
 
 Your proposal is now a NFT, it will be auctioned and you'll be able to receive your cryptocurrencies in your [Metamask](https://metamask.io/) wallet.
 
-[To know the basics of NFT](https://en.wikipedia.org/wiki/Non-fungible_token/).
+[To know the basics about NFT](https://en.wikipedia.org/wiki/Non-fungible_token/).
 
 [STEAM = STEM + Art](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics).
 
@@ -48,7 +48,7 @@ Remember that your NFT exists in 2 scenarios simultaneously:
 + 2 Your production will be heard by an audience willing to incorporate it into their collection.
 
 # NFT format
-Audio track of maximum 1 minute. Formats: .mp3, .mp4, .wav.
+Audio track of maximum 1 minute. Formats: MP3, OGG, WAV.
 
 Individually or collectively, design and produce your proposal. You can be a director, screenwriter, editor or one of the voices of your own production, or you can also distribute production work into different tasks, from research to the final cut. 
 
