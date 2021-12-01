@@ -16,8 +16,6 @@ Let's jump into the future for an indeterminate period of time and think about s
 
 #### EduFi? KnowFi?
 
-Next:
-
 * [Mission](#mission)
 * [User Manual](#user-manual)
 * [NFT Format](#nft-format)
@@ -31,7 +29,11 @@ You will receive a story that proposes a complex problem for which you must desi
 
 Find the best possible proposal in your STEAM skills. 
 
-Your proposal is now a NFT, it will be auctioned and you'll be able to receive your cryptocurrencies in your [Metamask](https://metamask.io/) wallet
+Your proposal is now a NFT, it will be auctioned and you'll be able to receive your cryptocurrencies in your [Metamask](https://metamask.io/) wallet.
+
+[To know the basics of NFT](https://en.wikipedia.org/wiki/Non-fungible_token/).
+
+[STEAM = STEM + Art](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics).
 
 # User Manual
 + 1 A 5+ minute audio clip is posted with a story that poses a complex problem.
