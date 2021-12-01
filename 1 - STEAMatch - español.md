@@ -31,6 +31,8 @@ Tu propuesta es un NFT, podrá ser comprada y tu recibirás el monto en criptomo
 
 **[Para saber sobre los Tokens No Fungibles](https://es.wikipedia.org/wiki/Token_no_fungible/)**
 
+**[Conoce sobre STEAM en la educación](https://es.wikipedia.org/wiki/STEAM/)**
+
 
 ## Manual de Usuario
 
