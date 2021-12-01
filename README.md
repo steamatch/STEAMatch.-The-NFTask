@@ -25,7 +25,7 @@ Let's jump into the future for an indeterminate period of time and think about s
 
 # Mission
 
-You will receive a story that proposes a complex problem for which you must design a solution.
+You will receive a **[story](https://github.com/steamatch/STEAMatch-A-NFTask/blob/main/audio%20steamatch%20eng.mp3/)** that proposes a complex problem for which you must design a solution.
 
 Find the best possible proposal in your STEAM skills. 
 
