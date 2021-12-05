@@ -22,6 +22,7 @@ Let's jump into the future for an indeterminate period of time and think about s
 * [References](#to-explore)
 * [Digital Audio Workstations](#digital-audio-workstations-daws)
 * [Calendar](#calendar)
+* [Become a NFT producer](#register-and-submit-your-audio)
 
 # Mission
 
@@ -48,7 +49,7 @@ Remember that your NFT exists in 2 scenarios simultaneously:
 + 2 Your production will be heard by an audience willing to incorporate it into their collection.
 
 # NFT format
-Audio track of maximum 1 minute. Formats: MP3, OGG, WAV.
+Audio track of maximum 1 minute length. Formats: MP3, OGG, WAV.
 
 Individually or collectively, design and produce your proposal. You can be a director, screenwriter, editor or one of the voices of your own production, or you can also distribute production work into different tasks, from research to the final cut. 
 
@@ -86,5 +87,6 @@ Some of the most popular free DAWs:
 
 2021
 + December/1 Project launch.
-+ [Register and submit your audio](https://docs.google.com/forms/d/e/1FAIpQLSdEjByNtfa4y5L_ARHOGvkv2SqZVF1OKfCBb14MtGMJEg7p4g/viewform)
-+ December/23 NFTs minting ends. The Collection on [OpenSea](https://opensea.io) is set for auction.
++ The Collection on [OpenSea](https://opensea.io) will be set for auction with 20 NFTs.
+
+## [Register and submit your audio](https://docs.google.com/forms/d/e/1FAIpQLSdEjByNtfa4y5L_ARHOGvkv2SqZVF1OKfCBb14MtGMJEg7p4g/viewform)
