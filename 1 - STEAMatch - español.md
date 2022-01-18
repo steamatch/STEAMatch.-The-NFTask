@@ -2,7 +2,7 @@ Vamos a saltar un tiempo indeterminado hacia el futuro y pensemos algunos escena
 
 #### ¿Las tareas escolares podrían convertirse en un activo digital?
 
-#### ¿Cómo iniciarías a adolescentes con habilidades STEAM en la gestión de criptoactivos  sin recurrir a la explotación de la imagen personal o el gaming?
+#### ¿Cómo iniciarías a adolescentes con habilidades STEAM en la gestión de criptoactivos  sin recurrir a la explotación de la imagen personal, los videojuegos o los JPGs?
 
 #### ¿FOMO basado en el conocimiento? ¿NFTs vinculados a un universo creativo común para solucionar problemas complejos?
 
@@ -26,7 +26,7 @@ A continuación:
 
 Vas a recibir una **[historia](https://github.com/steamatch/STEAMatch-A-NFTask/blob/main/audio%20steamatch%20esp.mp3/)** que propone un problema complejo para el cual debes diseñar una solución. 
 
-Encuentra en tus habilidades STEAM la mejor propuesta posible. 
+Construye con tus habilidades STEAM la mejor propuesta posible. 
 
 Tu propuesta es un NFT, podrá ser comprada y tu recibirás el monto en criptomonedas en tu billetera [Metamask](https://metamask.io/).
 
@@ -77,6 +77,8 @@ Una lista con algunas de las DAWs  gratis más populares:
 
 **[Ardour](https://ardour.org/)**
 
+**[Audiotool](https://www.audiotool.com)**
+
 **[Bandlab](https://www.bandlab.com/)**
 
 **[GarageBand](https://www.apple.com/co/mac/garageband/)**
@@ -93,6 +95,8 @@ Una lista con algunas de las DAWs  gratis más populares:
 
 2021
 + Diciembre/1 Lanzamiento del proyecto.
+
+2022
 + La colección en [OpenSea](htpps://opensea.io) se exhibe con 20 NFTs. 
 
 ## [Regístrate y envía tu producción de audio](https://docs.google.com/forms/d/e/1FAIpQLSdTr0mvIEDfm6EbTcOP7GZuG2BszZNLj0zJsPLJ04LNWJSy9g/viewform)
