@@ -6,7 +6,7 @@ Let's jump into the future for an indeterminate period of time and think about s
 
 #### Could homework become a digital asset?
 
-#### How would you initiate teenagers into cryptoassets management without resorting to body image or gaming?
+#### How would you initiate teenagers into cryptoassets management without resorting to body image, videogaming or JPGs?
 
 #### Knowledge-based FOMO? NFTs pegged to a common creative universe to solve complex problems?
 
@@ -28,7 +28,7 @@ Let's jump into the future for an indeterminate period of time and think about s
 
 You will receive a **[story](https://github.com/steamatch/STEAMatch-A-NFTask/blob/main/audio%20steamatch%20eng.mp3/)** that proposes a complex problem for which you must design a solution.
 
-Find the best possible proposal in your STEAM skills. 
+Build the best possible proposal with your STEAM skills. 
 
 Your proposal is now a NFT, it will be auctioned and you'll be able to receive your cryptocurrencies in your [Metamask](https://metamask.io/) wallet.
 
@@ -42,7 +42,7 @@ Your proposal is now a NFT, it will be auctioned and you'll be able to receive y
 + 3 The NFTs are minted in the Ethereum network and displayed in a public Collection on [OpenSea](https://opensea.io).
 + 4 NFTs are subject to auction. The benefit goes to each author.
 
-Do not rush to send your proposal. Take your time to analyze every detail of the original story. Discover all the information in the narration, the obvious and the hidden details. Explore the knowledge you can find in the questions in the story, and even better, ask your own questions to discover new horizons of the original story.
+Do not rush to send your proposal. Take your time to analyze every detail of the original story. Discover all the information in the narration, the obvious and the hidden details. Explore the knowledge you can find in the questions posted in the story, and even better, ask your own questions to discover new horizons of the original story.
 
 Remember that your NFT exists in 2 scenarios simultaneously: 
 + 1 It is what an intelligent civilization of the future will receive as a message hundreds of thousands of years from now. 
@@ -71,6 +71,8 @@ Some of the most popular free DAWs:
 
 **[Ardour](https://ardour.org/)**
 
+**[Audiotool](https://www.audiotool.com)**
+
 **[Bandlab](https://www.bandlab.com/)**
 
 **[GarageBand](https://www.apple.com/co/mac/garageband/)**
@@ -87,6 +89,8 @@ Some of the most popular free DAWs:
 
 2021
 + December/1 Project launch.
+
+2022
 + The Collection on [OpenSea](https://opensea.io) will be set for auction with 20 NFTs.
 
 ## [Register and submit your audio](https://docs.google.com/forms/d/e/1FAIpQLSdEjByNtfa4y5L_ARHOGvkv2SqZVF1OKfCBb14MtGMJEg7p4g/viewform)
