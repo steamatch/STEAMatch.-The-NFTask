@@ -87,10 +87,7 @@ Some of the most popular free DAWs:
 
 ## Calendar
 
-2021
-+ December/1 Project launch.
-
 2022
-+ The Collection on [OpenSea](https://opensea.io) will be set for auction with 20 NFTs.
++ The Collection will be launched on July. 
 
 ## [Register and submit your audio](https://docs.google.com/forms/d/e/1FAIpQLSdEjByNtfa4y5L_ARHOGvkv2SqZVF1OKfCBb14MtGMJEg7p4g/viewform)
