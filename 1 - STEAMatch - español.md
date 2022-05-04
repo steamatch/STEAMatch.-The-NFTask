@@ -93,10 +93,7 @@ Una lista con algunas de las DAWs  gratis más populares:
 
 ## Calendario
 
-2021
-+ Diciembre/1 Lanzamiento del proyecto.
-
 2022
-+ La colección en [OpenSea](htpps://opensea.io) se exhibe con 20 NFTs. 
++ La Colección se lanzará en Julio.  
 
 ## [Regístrate y envía tu producción de audio](https://docs.google.com/forms/d/e/1FAIpQLSdTr0mvIEDfm6EbTcOP7GZuG2BszZNLj0zJsPLJ04LNWJSy9g/viewform)
