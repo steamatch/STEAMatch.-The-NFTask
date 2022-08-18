@@ -10,7 +10,7 @@ Vamos a saltar un tiempo indeterminado hacia el futuro y pensemos algunos escena
 
 #### ¿Un/a donante podría evaluar el registro histórico de NFTs producidos por un/a estudiante, un colectivo de estudiantes o una institución educativa  para medir el desempeño académico, y así otorgar becas escolares?
 
-#### ¿EduFi? ¿KnowFi? 
+#### ¿DeEd? ¿KnoFi? 
 
 A continuación:
 
@@ -19,8 +19,6 @@ A continuación:
 * [Formato del NFT](#formato-del-nft)
 * [Fuentes](#fuentes-para-explorar)
 * [Digital Audio Workstations](#digital-audio-workstations-daws)
-* [Calendario](#calendario)
-* [Participa](#regístrate-y-envía-tu-producción-de-audio)
 
 ## Misión
 
@@ -90,10 +88,3 @@ Una lista con algunas de las DAWs  gratis más populares:
 **[Soundtrap](https://www.soundtrap.com/)**
 
 **[Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free)**
-
-## Calendario
-
-2022
-+ La Colección se lanzará en Julio.  
-
-## [Regístrate y envía tu producción de audio](https://docs.google.com/forms/d/e/1FAIpQLSdTr0mvIEDfm6EbTcOP7GZuG2BszZNLj0zJsPLJ04LNWJSy9g/viewform)
