@@ -85,9 +85,3 @@ Some of the most popular free DAWs:
 
 **[Tracktion Waveform Free](https://www.tracktion.com/products/waveform-free)**
 
-## Calendar
-
-2022
-+ The Collection will be launched on July. 
-
-## [Register and submit your audio](https://docs.google.com/forms/d/e/1FAIpQLSdEjByNtfa4y5L_ARHOGvkv2SqZVF1OKfCBb14MtGMJEg7p4g/viewform)
