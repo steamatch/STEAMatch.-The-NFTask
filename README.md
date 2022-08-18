@@ -14,15 +14,13 @@ Let's jump into the future for an indeterminate period of time and think about s
 
 #### Could a donor evaluate the historical record of NFTs produced by a student, a group of students or an educational institution to measure academic performance, and thus award scholarships?
 
-#### EduFi? KnowFi?
+#### DeEd? KnoFi?
 
 * [Mission](#mission)
 * [User Manual](#user-manual)
 * [NFT Format](#nft-format)
 * [References](#to-explore)
 * [Digital Audio Workstations](#digital-audio-workstations-daws)
-* [Calendar](#calendar)
-* [Become a NFT producer](#register-and-submit-your-audio)
 
 # Mission
 
